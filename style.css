@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red; */
+}
+#wrapper{
+    width: 715px;
+    margin: 20px 0 0 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main-content{
+    padding: 10px;
+    height: 350px;
+}
+img{
+    width: 150px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-left: 20px;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px 5px;
+    background-color: rgb(197, 58, 58);
+    color: white;
+}
